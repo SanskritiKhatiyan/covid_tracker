@@ -1,4 +1,4 @@
-# React COVID Tracker
+# COVID Tracker
 Link: https://tracker-for-covid.herokuapp.com/
 Hosted on Heroku.
 ## Available Scripts
