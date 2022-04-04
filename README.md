@@ -1,5 +1,6 @@
 # React COVID Tracker
-
+Link: https://tracker-for-covid.herokuapp.com/
+Hosted on Heroku.
 ## Available Scripts
 
 In the project directory, you can run:
